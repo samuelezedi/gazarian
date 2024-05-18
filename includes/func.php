@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 require 'vendor/autoload.php';
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
@@ -131,14 +133,35 @@ function contactAction(){
                 <p>$message</p>
             ";
             if(sendMail($email, $subject, $body)){
-                echo '<script>alert("Google reCAPTACHA verified")</script>'; 
+                // echo '<script>alert("Google reCAPTACHA verified")</script>'; 
+                setFlashMessage('Email Sent');
             }
-            header('Location: contact.php');
+            header('Location: contact.php'); exit();
         } else { 
             echo '<script>alert("Error in Google reCAPTACHA")</script>'; 
-            header('Location: contact.php');
+            header('Location: contact.php'); exit();
         } 
     }  
+}
+
+function setFlashMessage($message){
+    $_SESSION['flash_message'] = $message;
+}
+
+function flashMessage(){
+    if(isset($_SESSION['flash_message'])) {
+        $message = $_SESSION['flash_message'];
+        unset($_SESSION['flash_message']);
+        echo "<script>
+                Swal.fire({
+                position: 'top-end',
+                icon: 'success',
+                title: '$message',
+                showConfirmButton: false,
+                timer: 2500
+                });
+            </script>";
+     }
 }
 
 

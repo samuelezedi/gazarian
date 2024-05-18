@@ -1,9 +1,10 @@
 
-<?php require_once './includes/func.php'; contactAction(); ?>
+<?php require_once './includes/func.php'; contactAction();?>
 <!DOCTYPE html>
 <html lang="en">
 
 <?php require_once './includes/head.php'; ?>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <body class="custom-cursor">
 
@@ -150,4 +151,5 @@
 
         <!--Site Footer Start-->
         <?php include_once('./includes/footer.php'); ?>
+        <?php flashMessage();?>
 </html>
