@@ -76,7 +76,7 @@
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="../index.php"><img src="../assets/new/logo_light.JPG" width="100px" alt=""></a>
+                                <a href="../index.php"><img src="../assets/new/logo_light.JPG" width="150px" alt=""></a>
                             </div>
                             <div class="main-menu__shape-1 float-bob-x">
                                 <img src="../assets/images/shapes/main-menu-shape-1.png" alt="">
