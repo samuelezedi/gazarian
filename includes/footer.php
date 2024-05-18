@@ -13,7 +13,7 @@
                                     <p class="footer-widget__about-text">Bringing Hope, One Relief at a Time.</p>
                                 </div>
                                 <div class="footer-widget__btn">
-                                    <a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk" target="_blank"> <span class="fa fa-heart"></span>Donate now</a>
+                                    <a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e" target="_blank"> <span class="fa fa-heart"></span>Donate now</a>
                                 </div>
                             </div>
                         </div>
@@ -24,7 +24,7 @@
                                     <li><a href="./about.php">About us</a></li>
                                     <li><a href="./contact.php">Contact</a></li>
                                     <li><a href="./read.php">Latest News</a></li>
-                                    <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk" target="_blank">Donations</a></li>
+                                    <li><a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e" target="_blank">Donations</a></li>
                                 </ul>
                             </div>
                         </div>

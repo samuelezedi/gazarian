@@ -62,7 +62,7 @@
                                                     <a href=".#">Donations</a>
                                                     <ul>
                                                         
-                                                        <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give once</a></li>
+                                                        <li><a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e">Give once</a></li>
                                                         <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give everyday</a></li>
                                                         <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give every week</a>
                                                         </li>

@@ -114,11 +114,11 @@
                                                 </div>
                                                 <div class="content">
                                                     <p>Send email</p>
-                                                    <h5><a href="mailto:needhelp@company.com">needhelp@company.com</a>
+                                                    <h5><a href="mailto:info@relief4gaza.org">info@relief4gaza.org</a>
                                                     </h5>
                                                 </div>
                                             </li>
-                                            <li>
+                                            <!-- <li>
                                                 <div class="icon">
                                                     <span class="icon-location"></span>
                                                 </div>
@@ -126,7 +126,7 @@
                                                     <p>380 St Kilda Road</p>
                                                     <h5>Melbourne, Australia</h5>
                                                 </div>
-                                            </li>
+                                            </li> -->
                                         </ul>
                                     </div>
                                     <div class="main-menu__right-top-social">
@@ -181,7 +181,7 @@
                             <div class="make-donation__right">
                                 <div class="make-donation__content">
                                     <div class="make-donation__btn-box">
-                                        <a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk" target="_blank" class="thm-btn make-donation__btn">Donate now</a>
+                                        <a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e" target="_blank" class="thm-btn make-donation__btn">Donate now</a>
                                     </div>
                                     <!-- <ul class="list-unstyled make-donation__meta">
                                         <li><a href="#"> <i class="fas fa-calendar-alt"></i> 45 Days Left</a></li>
@@ -298,7 +298,7 @@
                                     <p class="footer-widget__about-text">Bringing Hope, One Relief at a Time.</p>
                                 </div>
                                 <div class="footer-widget__btn">
-                                    <a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk" target="_blank"> <span class="fa fa-heart"></span>Donate now</a>
+                                    <a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e" target="_blank"> <span class="fa fa-heart"></span>Donate now</a>
                                 </div>
                             </div>
                         </div>
@@ -309,7 +309,7 @@
                                     <li><a href="../about.php">About us</a></li>
                                     <li><a href="../contact.php">Contact</a></li>
                                     <li><a href="../read.php">Latest News</a></li>
-                                    <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk" target="_blank">Donations</a></li>
+                                    <li><a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e" target="_blank">Donations</a></li>
                                 </ul>
                             </div>
                         </div>

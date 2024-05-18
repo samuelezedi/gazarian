@@ -113,7 +113,7 @@
                             <div class="make-donation__right">
                                 <div class="make-donation__content">
                                     <div class="make-donation__btn-box">
-                                        <a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk" target="_blank" class="thm-btn make-donation__btn">Donate now</a>
+                                        <a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e" target="_blank" class="thm-btn make-donation__btn">Donate now</a>
                                     </div>
                                     <!-- <ul class="list-unstyled make-donation__meta">
                                         <li><a href="#"> <i class="fas fa-calendar-alt"></i> 45 Days Left</a></li>
