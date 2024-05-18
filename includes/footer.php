@@ -43,8 +43,8 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__contact">
                                 <h3 class="footer-widget__title">Contact</h3>
-                                <p class="footer-widget__contact-text">380 Street Kilda Broklyn Road <br> Melbourne
-                                    Australia
+                                <p class="footer-widget__contact-text">Level 31, 2-6 Gilmer Terrace <br> Wellington
+                                    New Zealand, 6011
                                 </p>
                                 <ul class="list-unstyled footer-widget__contact-list">
                                     <li>
