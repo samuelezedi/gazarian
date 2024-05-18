@@ -1,4 +1,4 @@
-<footer class="site-footer">
+        <footer class="site-footer">
             <div class="site-footer-bg" style="background-image: url(assets/new/men.png);">
             </div>
             <div class="site-footer__top">

@@ -1,4 +1,4 @@
-<?php require_once '../includes/func.php'; ?>
+<?php require_once '../includes/func.php';?>
 
 <!DOCTYPE html>
 <html lang="en">

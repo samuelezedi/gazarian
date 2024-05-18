@@ -1,10 +1,10 @@
 
-<?php require_once './includes/func.php'; ?>
+<?php require_once './includes/func.php'; contactAction(); ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <?php require_once './includes/head.php'; ?>
-
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <body class="custom-cursor">
 
     <div class="custom-cursor__cursor"></div>
@@ -107,8 +107,7 @@
                     <h2 class="section-title__title">Feel free to write us <br> anytime</h2>
                 </div>
                 <div class="contact-page__form-box">
-                    <form action="assets/inc/sendemail.php" class="contact-page__form contact-form-validated"
-                        novalidate="novalidate">
+                    <form action="contact.php" class="contact-page__form " method="POST">
                         <div class="row">
                             <div class="col-xl-6">
                                 <div class="contact-form__input-box">
@@ -136,8 +135,11 @@
                                 <div class="contact-form__input-box text-message-box">
                                     <textarea name="message" placeholder="Write a message"></textarea>
                                 </div>
-                                <div class="contact-form__btn-box">
-                                    <button type="submit" class="thm-btn contact-form__btn">Send a message</button>
+                                <div class="g-recaptcha d-flex justify-content-center" data-sitekey="6Lfd3-ApAAAAAKypnw_5WYWt1i3Ol9bZGaIaPIXz">
+
+                                </div> 
+                                <div class="contact-form__btn-box mt-2">
+                                    <button type="submit" name="ctnsubmit" class="thm-btn contact-form__btn">Send a message</button>
                                 </div>
                             </div>
                         </div>

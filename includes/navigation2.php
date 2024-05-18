@@ -6,15 +6,15 @@
                 <a href="/">Home</a>
             </li>
             <li class="<?php echo current_url('about') ? 'current' : ''; ?>">
-                <a href="/about.php">About</a>
+                <a href="../about.php">About</a>
             </li>
-            <li class="dropdown">
+            <li class="dropdown <?php echo (current_url('education') || current_url('shelter') || current_url('food') || current_url('medical')) ? 'current' : ''; ?>">
                 <a href="#">Projects</a>
                 <ul>
-                    <li><a href="./projects/education.php">Education</a></li>
-                    <li><a href="./projects/shelter.php">Shelter</a></li>
-                    <li><a href="./projects/food.php">Food</a></li>
-                    <li><a href="./projects/medical.php">Medical</a></li>
+                    <li><a href="../projects/education.php">Education</a></li>
+                    <li><a href="../projects/shelter.php">Shelter</a></li>
+                    <li><a href="../projects/food.php">Food</a></li>
+                    <li><a href="../projects/medical.php">Medical</a></li>
                 </ul>
             </li>
             <li class="dropdown">
@@ -29,10 +29,10 @@
             </li>
             
             <li class="<?php echo current_url('read') ? 'current' : ''; ?>">
-                <a href="/read.php">Read</a>
+                <a href="../read.php">Read</a>
             </li>
             <li class="<?php echo current_url('contact') ? 'current' : ''; ?>">
-                <a href="/contact.php">Contact</a>
+                <a href="../contact.php">Contact</a>
             </li>
         </ul>
     </div>

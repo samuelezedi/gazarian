@@ -118,13 +118,13 @@
                                             </li> -->
                                         </ul>
                                         <h3 class="news-sidebar__title">
-                                            <a href="<?php echo $article['url_link']; ?>" target="_blank"><?php echo $article['title']; ?></a>
+                                            <a href="./news-detail.php?read=<?php echo $article['id']; ?>"><?php echo $article['title']; ?></a>
                                         </h3>
                                         <p class="news-sidebar__text"><?php echo $article['body']; ?></p>
                                         <div class="news-sidebar__bottom">
                                             <a href="news-details.html" class="news-sidebar__arrow"><span
                                                     class="icon-right-arrow"></span></a>
-                                            <a href="<?php echo $article['url_link']; ?>" target="_blank" class="news-sidebar__read-more">View</a>
+                                            <a href="./news-detail.php?read=<?php echo $article['id']; ?>" class="news-sidebar__read-more">Read More</a>
                                         </div>
                                     </div>
                                 </div>

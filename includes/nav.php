@@ -73,7 +73,7 @@
                                                     <a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk" target="_blank">Donations</a>
                                                 </li> -->
                                                 
-                                                <li class="<?php echo current_url('read') ? 'current' : ''; ?>">
+                                                <li class="<?php echo (current_url('read') || current_url('news-detail')) ? 'current' : ''; ?>">
                                                     <a href="./read.php">Read</a>
                                                 </li>
 

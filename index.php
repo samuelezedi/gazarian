@@ -439,11 +439,11 @@
                                                     Comments</a>
                                             </li> -->
                                         </ul>
-                                        <h3 class="news-one__title"><a href="<?php echo $articles[$i]['url_link']; ?>" target="_blank"><?php echo $articles[$i]['title']; ?></a></h3>
+                                        <h3 class="news-one__title"><a href="./news-detail.php?read=<?php echo $articles[$i]['id']; ?>"><?php echo $articles[$i]['title']; ?></a></h3>
                                     </div>
                                     <div class="news-one__bottom">
                                         <div class="news-one__read-more">
-                                            <a href="<?php echo $articles[$i]['url_link']; ?>" target="_blank"> <span class="icon-right-arrow"></span> View</a>
+                                            <a href="./news-detail.php?read=<?php echo $articles[$i]['id']; ?>"> <span class="icon-right-arrow"></span> Read More</a>
                                         </div>
                                         <div class="news-one__share">
                                             <a href="#"><i class="fas fa-share-alt"></i></a>
