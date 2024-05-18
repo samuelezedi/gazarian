@@ -52,7 +52,7 @@
                                             <i class="fa fa-envelope"></i>
                                         </div>
                                         <div class="text">
-                                            <p><a href="mailto:needhelp@company.com ">needhelp@company.com</a></p>
+                                            <p><a href="mailto:info@relief4gaza.org">info@relief4gaza.org</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -60,7 +60,7 @@
                                             <i class="fas fa-phone-alt"></i>
                                         </div>
                                         <div class="text">
-                                            <p><a href="tel:980009630">+ 98 (000) - 9630</a></p>
+                                            <p><a href="tel:8622532501">(862) 253-2501</a></p>
                                         </div>
                                     </li>
                                 </ul>

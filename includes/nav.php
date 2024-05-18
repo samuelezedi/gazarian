@@ -25,7 +25,7 @@
                                                 <i class="fas fa-phone"></i>
                                             </div>
                                             <div class="main-menu-three__number">
-                                                <a href="tel:980009630">+ 98 (000) - 9630</a>
+                                                <a href="tel:8622532501">(862) 253-2501</a>
                                             </div>
                                         </div>
                                         <!-- <div class="main-menu-three__call">
@@ -63,10 +63,10 @@
                                                     <ul>
                                                         
                                                         <li><a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e">Give once</a></li>
-                                                        <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give everyday</a></li>
-                                                        <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give every week</a>
+                                                        <li><a href="https://buy.stripe.com/7sIeWGajBgSj18Y4gv">Give everyday</a></li>
+                                                        <li><a href="https://buy.stripe.com/14k5m6bnF45xbNC14k">Give every week</a>
                                                         </li>
-                                                        <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give every month</a></li>
+                                                        <li><a href="https://buy.stripe.com/eVa4i2crJgSj5pe5kB">Give every month</a></li>
                                                     </ul>
                                                 </li>
                                                 <!-- <li>

@@ -21,9 +21,9 @@
                 <a href="#">Donations</a>
                 <ul>
                     <li><a href="https://buy.stripe.com/5kAaGqbnFbxZg3S00e">Give once</a></li>
-                    <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give everyday</a></li>
-                    <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give everyweek</a></li>
-                    <li><a href="https://buy.stripe.com/test_dR63cL0zFaKgcI85kk">Give every month</a></li>
+                    <li><a href="https://buy.stripe.com/7sIeWGajBgSj18Y4gv">Give everyday</a></li>
+                    <li><a href="https://buy.stripe.com/14k5m6bnF45xbNC14k">Give everyweek</a></li>
+                    <li><a href="https://buy.stripe.com/eVa4i2crJgSj5pe5kB">Give every month</a></li>
                     
                 </ul>
             </li>

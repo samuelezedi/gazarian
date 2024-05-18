@@ -4,7 +4,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <p>Helpline</p>
-                                                    <h5><a href="tel:980009630">+ 98 (000) - 9630</a></h5>
+                                                    <h5><a href="tel:8622532501">(862) 253-2501</a></h5>
                                                 </div>
                                             </li>
                                             <li>
@@ -13,7 +13,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <p>Send email</p>
-                                                    <h5><a href="mailto:needhelp@company.com">info@relief4gaza.org</a>
+                                                    <h5><a href="mailto:info@relief4gaza.org">info@relief4gaza.org</a>
                                                     </h5>
                                                 </div>
                                             </li>
